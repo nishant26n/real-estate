@@ -16,19 +16,17 @@ import { FiKey } from "react-icons/fi";
 const Navbar = () => {
   return (
     <Flex p="2" borderBottom="1px" borderColor="gray.100">
-      <Box fontSize="3xl" color="blue.400" fontWeight="bold">
-        <Link href="/" paddingLeft="2">
-          Relator
-        </Link>
+      <Box fontSize="3xl" color="blue.500" fontWeight="bold" paddingLeft="2">
+        <Link href="/">Real Estate</Link>
       </Box>
       <Spacer />
       <Box>
         <Menu>
           <MenuButton
             as={IconButton}
-            icon={<FcMenu />}
+            icon={<FcMenu size="2rem" />}
             variant="outlined"
-            color="red.400"
+            color="red.500"
           />
           <MenuList>
             <Link href="/" passHref>

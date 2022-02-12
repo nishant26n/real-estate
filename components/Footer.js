@@ -9,7 +9,7 @@ const Footer = () => {
       borderTop="1px"
       borderColor="gray.100"
     >
-      2021 Rela Estate, Inc
+      2022 Rela Estate, Inc
     </Box>
   );
 };
