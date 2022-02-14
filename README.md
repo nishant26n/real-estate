@@ -1,14 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Real Estate app build by using Next.js with Chakra UI
+
+Inspired by @adrianhajdin 
+
+Rapid API Used : Bayut API
+Real estate of location Abu Dhabi
+
+Some screenshots
+<img width="1440" alt="Screenshot 2022-02-14 at 8 47 09 PM" src="https://user-images.githubusercontent.com/69674721/153891549-0b045b5c-8322-4e0e-a995-649d7caae42a.png">
+<img width="1440" alt="Screenshot 2022-02-14 at 8 47 37 PM" src="https://user-images.githubusercontent.com/69674721/153891567-06fa14e8-29d4-4237-9689-2a8b847e974d.png">
+
 ## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
