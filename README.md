@@ -8,7 +8,9 @@ Rapid API Used : Bayut API
 Real estate of location Abu Dhabi
 
 Some screenshots
+
 <img width="1440" alt="Screenshot 2022-02-14 at 8 47 09 PM" src="https://user-images.githubusercontent.com/69674721/153891549-0b045b5c-8322-4e0e-a995-649d7caae42a.png">
+
 <img width="1440" alt="Screenshot 2022-02-14 at 8 47 37 PM" src="https://user-images.githubusercontent.com/69674721/153891567-06fa14e8-29d4-4237-9689-2a8b847e974d.png">
 
 ## Getting Started
