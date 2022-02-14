@@ -52,7 +52,7 @@ export default function Home({ propertiesforSale, propertiesforRent }) {
         linkName="/search?purpose=for-rent"
         imageUrl={rentHomeImg}
       />
-      <Flex flexWrap="wrap">
+      <Flex flexWrap="wrap" justifyContent="center">
         {propertiesforRent.map((property) => (
           <Property property={property} key={property.id} />
         ))}
@@ -67,7 +67,7 @@ export default function Home({ propertiesforSale, propertiesforRent }) {
         linkName="/search?purpose=for-sale"
         imageUrl={buyHomeImg}
       />
-      <Flex flexWrap="wrap">
+      <Flex flexWrap="wrap" justifyContent="center">
         {propertiesforSale.map((property) => (
           <Property property={property} key={property.id} />
         ))}

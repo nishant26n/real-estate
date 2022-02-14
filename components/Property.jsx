@@ -26,10 +26,10 @@ const Property = ({
       <Link href={`/property/${externalID}`} passHref>
         <Flex
           flexWrap="wrap"
+          justifyContent="flex-start"
           w="420px"
           p="5"
           paddingTop="0"
-          justifyContent="flex-start"
           cursor="pointer"
         >
           <Box>
@@ -61,7 +61,7 @@ const Property = ({
               p="1"
               justifyContent="space-between"
               w="250px"
-              color="blue.400"
+              color="orange.400"
             >
               {rooms} <FaBed /> | {baths} <FaBath /> | {millify(area)} sqft
               <BsGridFill />
