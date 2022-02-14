@@ -42,7 +42,7 @@ export default function ImageScrollBar({ data }) {
       {data.map((item) => (
         <Box
           key={item.id}
-          width="1200px"
+          w={[310, 610, 1210]}
           itemId={item.id}
           overflow="hidden"
           p="1"
