@@ -43,7 +43,7 @@ export default function ImageScrollBar({ data }) {
         <Box
           key={item.id}
           w={[310, 610, 1210]}
-          itemId={item.id}
+          itemID={item.id}
           overflow="hidden"
           p="1"
         >
